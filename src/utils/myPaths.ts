@@ -1,4 +1,4 @@
-const BASE_URL = "http://64.23.131.150:7001/";
+const BASE_URL = "https://inventory.djuix.io/";
 
 export const ME_URL = BASE_URL + "user/me";
 export const LOGIN_URL = BASE_URL + "user/login";
